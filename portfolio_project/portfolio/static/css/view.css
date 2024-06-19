@@ -1,0 +1,29 @@
+.nav ul {
+    list-style:none ;
+    display:flex;
+    justify-content: flex-end;
+    align-items:end;
+    position:relative;
+
+    font-family: sans-serif;
+    font-weight: bold;
+    
+    
+    }
+
+    
+    
+.about-text{
+
+font-size: large;
+font-weight: bold;
+
+
+}
+
+.nav-item{
+
+padding-right: 100px;
+color: green;
+
+}
