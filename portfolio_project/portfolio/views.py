@@ -12,7 +12,7 @@ from django.contrib.auth import authenticate,login,logout
 
 
 class HomeView(TemplateView):
-    template_name='home.html'
+    template_name='index.html'
 
 
 class PortfolioListView(LoginRequiredMixin, ListView):
